@@ -33,7 +33,7 @@ I care deeply about quality. I naturally spot gaps, inconsistencies, and opportu
 I set a high bar for myself and the work I produce. I’m committed to delivering at a level that reflects pride, craftsmanship, and true ownership.
 
 
-## 3. My Weaknesses ⚠️
+## 3. My Weaknesses (The Other Side of the Coin) ⚠️
 
 ### Goal-Getter 🏃‍♀️
 Because I move quickly, I sometimes push ahead without pausing long enough to bring others fully on the journey. I have to remind myself to slow down and check for alignment.
@@ -53,8 +53,5 @@ By default, I expect everyone to actively engage with their teams, peers, and le
 ### Ownership 🎯
 If you say you’re going to do something, I expect you to deliver it on time and to the best of your ability. Because that is what I will do as well.
 
-### Help Each Other Out 💪
-I believe in the saying that "no man is an island." I want my team to foster a selfless spirit of offering help when we see a team member struggling and getting them up to speed if they’re new to the processes of the team.
-
-### Constructive Feedback 🔄
-I believe in the power of constructive feedback to help us grow. I hope to give and receive it in a way that fosters improvement and drives better results for everyone.
+### Support and Growth 🤍
+I believe in fostering a selfless spirit — offering help when a teammate is struggling, welcoming new members, and sharing knowledge freely. I also value constructive feedback as a tool to help us all grow and deliver better results together.
