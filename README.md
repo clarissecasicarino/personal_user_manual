@@ -1,6 +1,4 @@
-<center>
-# Personal User Manual ✨📓
-</center>
+> <h1> Personal User Manual ✨📓 </h1>
 
 ## Introduction 👋
 
