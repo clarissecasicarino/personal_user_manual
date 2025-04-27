@@ -1,5 +1,3 @@
-# Personal User Manual 📓
-
 ## Introduction 👋
 
 To start with, my name is Clarisse Casi Cariño, and I’ve always had a deep love for technology 💻. I started programming at the age of 15, and by 21, I landed my first job as a Full Stack Developer — the youngest and only female developer in my team at the time 👩‍💻.
@@ -57,24 +55,3 @@ If you say you’re going to do something, I expect you to deliver it on time an
 
 ### Help Each Other Out 💪
 I believe in the saying that "no man is an island." I want my team to foster a selfless spirit of offering help when we see a team member struggling and getting them up to speed if they’re new to the processes of the team.
-
-
-## 5. My Communication Preferences 💬
-
-### Keep messages concise ✂️
-I prefer messages that are to the point, not too long. Bullet points are the easiest way to get information across quickly.
-
-### Prefer video conferencing calls 📞
-I like 30-45 minute video calls with the team to discuss things. This helps keep conversations focused and efficient.
-
-
-## BONUS CONTENT: Who Am I Outside of Work 🌸
-
-### Journaling 📖
-I often like to journal because I do a lot of introspection work in my life. It helps me stay grounded and focused on my personal growth.
-
-### Poetry ✍️
-Sometimes I express my thoughts in poetry. It’s a way for me to process my emotions and experiences in a creative way.
-
-### Music 🎸
-Music is a way for me to release my stress, by playing piano, guitar, or through singing. It’s my personal form of expression and relaxation.
