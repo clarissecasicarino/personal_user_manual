@@ -55,3 +55,6 @@ If you say you’re going to do something, I expect you to deliver it on time an
 
 ### Help Each Other Out 💪
 I believe in the saying that "no man is an island." I want my team to foster a selfless spirit of offering help when we see a team member struggling and getting them up to speed if they’re new to the processes of the team.
+
+### Constructive Feedback 🔄
+I believe in the power of constructive feedback to help us grow. I hope to give and receive it in a way that fosters improvement and drives better results for everyone.
