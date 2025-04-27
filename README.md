@@ -1,4 +1,5 @@
-# Personal User Manual 📓
+<center> # Personal User Manual 📓 </center>
+
 ## Introduction 👋
 
 To start with, my name is Clarisse Casi Cariño, and I’ve always had a deep love for technology 💻. I started programming at the age of 15, and by 21, I landed my first job as a Full Stack Developer — the youngest and only female developer in my team at the time 👩‍💻.
