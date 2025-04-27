@@ -35,7 +35,7 @@ I care deeply about quality. I naturally spot gaps, inconsistencies, and opportu
 I set a high bar for myself and the work I produce. I’m committed to delivering at a level that reflects pride, craftsmanship, and true ownership.
 
 
-## 3. My Weaknesses – Double-Edged Swords Are Real ⚖️
+## 3. My Weaknesses ⚠️
 
 ### Goal-Getter 🏃‍♀️
 Because I move quickly, I sometimes push ahead without pausing long enough to bring others fully on the journey. I have to remind myself to slow down and check for alignment.
