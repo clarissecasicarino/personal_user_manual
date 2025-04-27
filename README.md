@@ -10,7 +10,6 @@ Outside of tech, I’m a lover of history, culture, and languages 📚🌏. I sp
 
 This manual is meant to help you understand the best ways to collaborate with me, communicate effectively, and get the most out of our working relationship. 💬
 
----
 
 ## 1. My Values 🌱
 
@@ -23,7 +22,6 @@ Commitment means a lot to me. I’m always seeking ways to grow and challenge my
 ### Communication 🗣️
 I value honesty and transparency, but also thoughtfulness. Coming from a conservative culture, I appreciate when people express themselves carefully to avoid misunderstandings. I prioritize asking clarifying questions rather than making assumptions, and I expect the same mindfulness in communication from those I work with.
 
----
 
 ## 2. My Superpowers – How You Can Get the Best From Me ⚡
 
@@ -36,7 +34,6 @@ I care deeply about quality. I naturally spot gaps, inconsistencies, and opportu
 ### Excellence 🌟
 I set a high bar for myself and the work I produce. I’m committed to delivering at a level that reflects pride, craftsmanship, and true ownership.
 
----
 
 ## 3. My Weaknesses – Double-Edged Swords Are Real ⚖️
 
@@ -49,7 +46,6 @@ My eye for details can sometimes make it harder for me to "let good enough be go
 ### Excellence 🏅
 Sometimes my drive for excellence can slow me down, especially when quick iteration or fast decision-making would be more valuable than polishing every detail.
 
----
 
 ## 4. My Expectations of Everyone (Including Myself) 🌟
 
@@ -62,9 +58,8 @@ If you say you’re going to do something, I expect you to deliver it on time an
 ### Help Each Other Out 💪
 I believe in the saying that "no man is an island." I want my team to foster a selfless spirit of offering help when we see a team member struggling and getting them up to speed if they’re new to the processes of the team.
 
----
 
-## 5. My Communication Preferences 🗨️
+## 5. My Communication Preferences 💬
 
 ### Keep messages concise ✂️
 I prefer messages that are to the point, not too long. Bullet points are the easiest way to get information across quickly.
@@ -72,7 +67,6 @@ I prefer messages that are to the point, not too long. Bullet points are the eas
 ### Prefer video conferencing calls 📞
 I like 30-45 minute video calls with the team to discuss things. This helps keep conversations focused and efficient.
 
----
 
 ## BONUS CONTENT: Who Am I Outside of Work 🌸
 
