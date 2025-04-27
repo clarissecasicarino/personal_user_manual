@@ -1,6 +1,6 @@
-# Introduction 👋
+# Personal User Manual ✨
 
-To start with, my name is Clarisse Casi Cariño, and I’ve always had a deep love for technology 💻. I started programming at the age of 15, and by 21, I landed my first job as a Full Stack Developer — the youngest and only female developer in my team at the time 👩‍💻.
+👋🏼 To start with, my name is Clarisse Casi Cariño, and I’ve always had a deep love for technology 💻. I started programming at the age of 15, and by 21, I landed my first job as a Full Stack Developer — the youngest and only female developer in my team at the time 👩‍💻.
 
 I believe technology has the power to level the playing field, and that’s one of the reasons why I’m passionate about it 🌍. I’m grateful to be a woman in tech, as it allows me to contribute to innovation and break boundaries 🚀.
 
