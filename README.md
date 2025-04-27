@@ -1,4 +1,4 @@
-> <h1> Personal User Manual 📓 </h1>
+# Personal User Manual 📓
 
 ## Introduction 👋
 
